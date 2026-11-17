@@ -1,5 +1,5 @@
 {
-  "serverUrl": "http://localhost:3000",
+  "serverUrl": "https://roblox-thingie.onrender.com",
   "agentSecret": "roblox-agent-secret-h3n7v2b9c4",
   "pin": "2231",
   "sessionMinutes": 20,
